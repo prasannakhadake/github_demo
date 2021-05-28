@@ -1,11 +1,15 @@
+#Add implementaion
 def add(x,y):
     pass
-
-def subtract(x,y):
+
+#substract implementation
+def subtract(x,y):
     pass
-
-def multiply(x,y):
+
+#Multiply implementation
+def multiply(x,y):
     pass
-
-def divide(x,y):
+
+#Devide implementation
+def divide(x,y):
     pass
